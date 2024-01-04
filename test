@@ -3,5 +3,6 @@ int main()
 {
    //have a try on git
    printf("Hello, World!");
+   printf("Hello Shokz")
    return 0;
 }
